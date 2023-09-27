@@ -10,6 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "clipboardy": "^3.0.0",
     "pokemontcgsdk": "^2.0.0"
   }
 }
